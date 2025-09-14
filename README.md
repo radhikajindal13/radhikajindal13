@@ -12,7 +12,7 @@
 
 - 🔭 Currently working on full-stack MERN projects  
 - 🌱 Learning Machine Learning and advanced React/Redux  
-- 💻 Solved 450+ problems on LeetCode & GFG  
+- 💻 Solved 500+ problems on LeetCode & GFG  
 - ✨ Actively exploring AI, APIs, and real-time systems  
 - 📫 Reach me at: **radhikajindal1329@gmail.com**
 
